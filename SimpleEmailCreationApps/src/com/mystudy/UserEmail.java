@@ -42,5 +42,10 @@ public class UserEmail {
 		return new String(password);
 	}
 	
+	public String getAlternateEmailAddress() {
+		return "abc@xyz.com";
+		
+	}
+	
 }
 
